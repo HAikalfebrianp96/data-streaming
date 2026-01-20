@@ -2,6 +2,9 @@
 
 Pipeline streaming real-time untuk menganalisis data dari Netflix, Amazon Prime, dan Disney+ menggunakan Apache Kafka, Spark Streaming, PostgreSQL, dan Power BI.
 
+
+example : https://drive.google.com/drive/folders/1NJFG7emT7nTEz-iLEV9Pl51wExyBsKOz?usp=sharing
+
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![Spark](https://img.shields.io/badge/spark-3.5.6-orange.svg)
